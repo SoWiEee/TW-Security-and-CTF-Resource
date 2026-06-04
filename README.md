@@ -67,6 +67,7 @@
 - [Linux Basic by Ice1187](https://github.com/Ice1187/My-Slides/blob/main/Linux%20Basic.pdf)
 - [清大開放式課程 - 作業系統](https://ocw.nthu.edu.tw/ocw/index.php?page=course&cid=295)
 - [CSOs 數位防禦手冊 by OCF](https://drive.google.com/file/d/1Yj6xmmJWHbleFRzbxVM1XbRzfFNGZg8w/view)
+- [國家資通安全研究院 資安星際指南](https://www.nics.nat.gov.tw/cybersecurity_resources/publications/Research_Reports/)
 
 ### Pwn
 
@@ -190,6 +191,7 @@
 - [資安技能金盾獎](https://csc.nics.nat.gov.tw/shield.aspx)
 - [AIS3 HACKATHON 資安專題黑客松](https://ais3.org/hackathon/2025/)
 - [No Hack No CTF](https://nhnc.ic3dt3a.org/)
+- [InnoServe 大專校院資訊應用服務創新競賽](https://innoserve.tca.org.tw)
 
 ## Wargame 練習平台
 
