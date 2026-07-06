@@ -361,6 +361,12 @@
 - [Fortiphyd Logic Inc](https://www.youtube.com/@fortiphyd/videos)
 - [Graphical Realism Framework for Industrial Control Simulation](https://github.com/Fortiphyd/GRFICSv2)
 
+### Cloud Security
+
+- [AWSGoat](https://github.com/ine-labs/AWSGoat)
+- [CloudGoat](https://github.com/rhinosecuritylabs/cloudgoat)
+
+
 ### Web3
 
 - [區塊鏈黑暗森林自救手冊](https://darkhandbook.io/)
